@@ -67,7 +67,7 @@ Usage Instructions
 
 Credits
 -------
-Developer: Muhammad Abbas
+Developer: Muhammad Abbas, Junaid khan
 
 Course: Object-Oriented Programming (OOP) Theory
 
